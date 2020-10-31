@@ -6,9 +6,9 @@ In machine learning classification problems, there are often too many factors on
 features, to get a smaller subset which can be used to model the problem. It usually 
 involves three ways:
 
- Filter
- Wrapper
- Embedded
+ * Filter
+ * Wrapper
+ * Embedded
 
 2. Feature extraction: This reduces the data in a high dimensional space to a lower dimension
  space, i.e. a space with lesser no. of dimensions.
