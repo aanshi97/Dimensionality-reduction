@@ -16,17 +16,17 @@ involves three ways:
  ### Methods of Dimensionality Reduction
  The various methods used for dimensionality reduction include:
 
-1. Principal Component Analysis (PCA)
-2. Linear Discriminant Analysis (LDA)
-3. Generalized Discriminant Analysis (GDA)
+*. Principal Component Analysis (PCA)
+*. Linear Discriminant Analysis (LDA)
+*. Generalized Discriminant Analysis (GDA)
 
 ### Advantages of Dimensionality Reduction
-1. It helps in data compression, and hence reduced storage space.
-2. It reduces computation time.
-3. It also helps remove redundant features, if any.
+*. It helps in data compression, and hence reduced storage space.
+*. It reduces computation time.
+*. It also helps remove redundant features, if any.
 
 ### Disadvantages of Dimensionality Reduction
-1. It may lead to some amount of data loss.
-2. PCA tends to find linear correlations between variables, which is sometimes undesirable.
-3. PCA fails in cases where mean and covariance are not enough to define datasets.
-4. We may not know how many principal components to keep- in practice, some thumb rules are applied.
+*. It may lead to some amount of data loss.
+*. PCA tends to find linear correlations between variables, which is sometimes undesirable.
+*. PCA fails in cases where mean and covariance are not enough to define datasets.
+*. We may not know how many principal components to keep- in practice, some thumb rules are applied.
