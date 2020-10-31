@@ -16,9 +16,9 @@ Embedded
  ### Methods of Dimensionality Reduction
  The various methods used for dimensionality reduction include:
 
-1)Principal Component Analysis (PCA)
-2)Linear Discriminant Analysis (LDA)
-3)Generalized Discriminant Analysis (GDA)
+1. Principal Component Analysis (PCA)
+2. Linear Discriminant Analysis (LDA)
+3. Generalized Discriminant Analysis (GDA)
 
 ### Advantages of Dimensionality Reduction
 1)It helps in data compression, and hence reduced storage space.
